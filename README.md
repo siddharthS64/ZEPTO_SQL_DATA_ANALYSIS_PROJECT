@@ -115,3 +115,8 @@ CREATE TABLE zepto (
 - Measured total inventory weight per product category
 
 
+## Author - Siddharth Sharma
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
+
+
+
