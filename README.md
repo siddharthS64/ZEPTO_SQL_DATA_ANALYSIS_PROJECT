@@ -116,5 +116,12 @@ CREATE TABLE zepto (
 ## Author - Siddharth Sharma
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
 
+## 🔗 Connect With Me
 
+If you’d like to discuss this project or collaborate on data analytics work, feel free to connect!
 
+- **LinkedIn:** [Siddharth Sharma](https://www.linkedin.com/in/siddharthsh64)
+
+- **Email:** [siddharthsh064@gmail.com](mailto:siddharthsh064@gmail.com)
+
+---
